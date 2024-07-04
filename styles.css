@@ -90,8 +90,7 @@ header:after {
 /* Interests section styles */
 .interests {
     margin-top: 20px;
-    display: flex;
-    
+    display: grid;
     gap: 10px;
 }
 .interests .interest {
